@@ -1,0 +1,16 @@
+div {
+    width: 200px; 
+    height: 100px;
+    float: right;
+    border-radius: 25px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px; 
+    color:white;
+}
+
+/* canvas{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+} */
